@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🕺 I’m currently working on human avatar projects at [Samsung AI Center - Moscow](https://github.com/saic-vul)
+- 🤟 Sometimes I create cool stuff at [Jesture AI](https://github.com/jesture-ai/jesture-sdk)
+- 🎓 I studied at [MIPT](https://mipt.ru/english) and [Skoltech](https://mipt.ru/english/)
+- ⚡ Fun fact: 
