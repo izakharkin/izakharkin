@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=izakharkin&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></em></p>  
+
+<!-- [![Ilya Zakharkin's github activity graph](https://activity-graph.herokuapp.com/graph?username=izakharkin&theme=nord)]() -->
+
 <img src="./static/ilya_pbc_opt.gif" height=150px><img src="./static/ilya_pbc2_opt.gif" height=150px><img src="./static/ilya_jesture_opt.gif" height=150px><img src="./static/ilya_videotouch.gif" height=150px>
 
 <!--
