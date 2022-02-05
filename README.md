@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=izakharkin&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></em></p>  
+<!-- <img alt="Visitors" src="https://komarev.com/ghpvc/?username=izakharkin&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></em></p>   -->
 
 <!-- [![Ilya Zakharkin's github activity graph](https://activity-graph.herokuapp.com/graph?username=izakharkin&theme=nord)]() -->
 
