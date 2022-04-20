@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🕺 I’m currently working on human avatar projects at [Samsung AI Center - Moscow](https://github.com/saic-vul)
+- 👘 Currently working on 3D clothing virtual try-on at [Zero10](https://010.community)
+- 🕺 Worked on human avatar projects at [Samsung AI Center - Moscow](https://github.com/saic-vul)
 - 🤟 Sometimes I create cool stuff at [Jesture AI](https://github.com/jesture-ai/jesture-sdk)
 - 🎓 Studied at [MIPT](https://mipt.ru/english) and [Skoltech](http://www.skoltech.ru/en)
