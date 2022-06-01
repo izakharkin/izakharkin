@@ -4,7 +4,7 @@
 
 <!-- [![Ilya Zakharkin's github activity graph](https://activity-graph.herokuapp.com/graph?username=izakharkin&theme=nord)]() -->
 
-<img src="./static/ilya_pbc_opt.gif" height=150px><img src="./static/ilya_pbc2_opt.gif" height=150px><img src="./static/ilya_jesture_opt.gif" height=150px><img src="./static/ilya_videotouch.gif" height=150px>
+<img src="./static/ilya_pbc_opt.gif" width="125"><img src="./static/ilya_pbc2_opt.gif" width="124"><img src="./static/ilya_jesture_opt.gif" width="323"><img src="./static/ilya_videotouch.gif" width="373">
 
 <!--
 **izakharkin/izakharkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
