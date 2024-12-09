@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 - 🥷 Currently at [FaceApp](https://www.faceapp.com)
-- 👘 Developed 3D and generative clothing virtual try-on at [Zero10](https://010.community)
+- 👘 Developed 3D and generative clothing virtual try-on at [ZERO10](https://010.community)
 - 🕺 Worked on human avatar projects at [Samsung AI Center - Moscow](https://github.com/saic-vul)
 - 🤟 Created some cool stuff at [Jesture AI](https://github.com/jesture-ai/jesture-sdk)
 - 🎓 Studied at [MIPT](https://mipt.ru/english) and [Skoltech](http://www.skoltech.ru/en)
